@@ -9,4 +9,8 @@ Creating a new branch is quick and simple.
 aaaaaaaaaaabbbbbbbbbbbbbbbbb
 and
 CHANGE IS VERY IMPORTANT 
+<<<<<<< HEAD
+=======
+yes ,i agree.
+>>>>>>> dev
 
