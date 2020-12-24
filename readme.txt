@@ -1,9 +1,3 @@
- git status
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	modified:   readme.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage
