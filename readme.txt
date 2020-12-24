@@ -7,3 +7,8 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 
 aaaaaaaaaaabbbbbbbbbbbbbbbbb
+<<<<<<< Updated upstream
+=======
+and
+change is very important
+>>>>>>> Stashed changes
